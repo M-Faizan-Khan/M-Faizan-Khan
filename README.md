@@ -1,5 +1,5 @@
 ![MasterHead](https://prientesoftware.com/assets/images/post/artificial-2970158_960_720.jpg)
-<h1 align="center">Hi 👋, I'm Muhammad Faizan Khan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Faizan Khan </h1>
 <h3 align="center">Lead Software Quality Assurance Engineer. Proven expertise and research in Agile development, Test Automation, Release Management. Passionate about delivering high-quality software products through best testing practices and standards. Especially, emerging technologies enthusiast and writer, passionate about exploring the frontiers of Artificial Intelligence and its impact on society.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20210320104649/Mouseclick.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-Faizan-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="M-Faizan-Khan" /> </p>
